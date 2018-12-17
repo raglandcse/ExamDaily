@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.0.6.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
@@ -53,34 +53,37 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		
+		<dependency>
+			<groupId>com.googlecode.json-simple</groupId>
+			<artifactId>json-simple</artifactId>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.vertx/vertx-core -->
 		<dependency>
-		    <groupId>io.vertx</groupId>
-		    <artifactId>vertx-core</artifactId>
-		    <version>3.5.4</version>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-core</artifactId>
+			<version>3.5.4</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.vertx/vertx-unit -->
 		<dependency>
-		    <groupId>io.vertx</groupId>
-		    <artifactId>vertx-unit</artifactId>
-		    <version>3.5.4</version>
-		    <scope>test</scope>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-unit</artifactId>
+			<version>3.5.4</version>
+			<scope>test</scope>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/io.vertx/vertx-web -->
 		<dependency>
-		    <groupId>io.vertx</groupId>
-		    <artifactId>vertx-web</artifactId>
-		    <version>3.5.4</version>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-web</artifactId>
+			<version>3.5.4</version>
 		</dependency>
-		
-			<!-- https://mvnrepository.com/artifact/org.modelmapper/modelmapper -->
+
+		<!-- https://mvnrepository.com/artifact/org.modelmapper/modelmapper -->
 		<dependency>
-		    <groupId>org.modelmapper</groupId>
-		    <artifactId>modelmapper</artifactId>
-		    <version>0.3.5</version>
-		</dependency>	
+			<groupId>org.modelmapper</groupId>
+			<artifactId>modelmapper</artifactId>
+			<version>0.3.5</version>
+		</dependency>
 	</dependencies>
 
 	<build>

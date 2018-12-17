@@ -1,0 +1,218 @@
+[
+ {
+   "questionNumber": "Q.1",
+   "question": "A and B travel the same distance at the speeds of 10 kmph and 15 kmph respectively.  If A takes 30 minutes longer than B then distance travelled is",
+   "answers": [
+      {
+         "answer": " 15 km\t\t\t",
+         "option": "a"
+      },
+      {
+         "answer": " 20km",
+         "option": "b"
+      },
+      {
+         "answer": " 90km\t\t\t",
+         "option": "c"
+      },
+      {
+         "answer": " 30km",
+         "option": "d"
+      }
+   ],
+   "correctAnswer": [
+      {
+         "answer": " 30km",
+         "option": "d"
+      }
+   ],
+   "solution": [
+      {
+         "answer": " 30km",
+         "option": "d",
+         "explanation": "Something goes here"
+      }
+   ],
+   "success": true
+},
+ {
+   "questionNumber": "Q.2",
+   "question": "Which allows the removal of elements from a collection?",
+   "answers": [
+      {
+         "answer": "Enumeration",
+         "option": "a"
+      },
+      {
+         "answer": "Iterator",
+         "option": "b"
+      },
+      {
+         "answer": "Both",
+         "option": "c"
+      },
+      {
+         "answer": "None",
+         "option": "d"
+      }
+   ],
+   "correctAnswer": [
+      {
+         "answer": "None",
+         "option": "d"
+      }
+   ],
+   "solution": [
+      {
+         "answer": "None",
+         "option": "d",
+         "explanation": "Something goes here"
+      }
+   ],
+   "success": true
+},
+ {
+   "questionNumber": "Q.3",
+   "question": "Which of these is synchronized",
+   "answers": [
+      {
+         "answer": "TreeMap",
+         "option": "a"
+      },
+      {
+         "answer": "HashMap",
+         "option": "b"
+      },
+      {
+         "answer": "Hashtable",
+         "option": "c"
+      },
+      {
+         "answer": "All",
+         "option": "d"
+      }
+   ],
+   "correctAnswer": [
+      {
+         "answer": "Hashtable",
+         "option": "c"
+      }
+   ],
+   "solution": [
+      {
+         "answer": "Hashtable",
+         "option": "c",
+         "explanation": "Something goes here"
+      }
+   ],
+   "success": true
+},
+ {
+   "questionNumber": "Q.4",
+   "question": "Iterator returned by ArrayList is",
+   "answers": [
+      {
+         "answer": "Fail-fast",
+         "option": "a"
+      },
+      {
+         "answer": "Fail-safe",
+         "option": "b"
+      },
+      {
+         "answer": "Both",
+         "option": "c"
+      },
+      {
+         "answer": "none",
+         "option": "d"
+      }
+   ],
+   "correctAnswer": [
+      {
+         "answer": "Fail-fast",
+         "option": "a"
+      }
+   ],
+   "solution": [
+      {
+         "answer": "Fail-fast",
+         "option": "a",
+         "explanation": "Something goes here"
+      }
+   ],
+   "success": true
+},
+ {
+   "questionNumber": "Q.5",
+   "question": "Which Set implementation is sorted and synchronized?",
+   "answers": [
+      {
+         "answer": "LinkedHashSet",
+         "option": "a"
+      },
+      {
+         "answer": "ConcurrentSkipListSet",
+         "option": "b"
+      },
+      {
+         "answer": "TreeSet",
+         "option": "c"
+      },
+      {
+         "answer": "CopyOnWriteArraySet",
+         "option": "d"
+      }
+   ],
+   "correctAnswer": [
+      {
+         "answer": "TreeSet",
+         "option": "c"
+      }
+   ],
+   "solution": [
+      {
+         "answer": "TreeSet",
+         "option": "c",
+         "explanation": "Something goes here"
+      }
+   ],
+   "success": true
+},
+ {
+   "questionNumber": "Q.6",
+   "question": "TreeMap -",
+   "answers": [
+      {
+         "answer": "doesn't allow null key",
+         "option": "a"
+      },
+      {
+         "answer": "allow many null values",
+         "option": "b"
+      },
+      {
+         "answer": "All",
+         "option": "c"
+      },
+      {
+         "answer": "None",
+         "option": "d"
+      }
+   ],
+   "correctAnswer": [
+      {
+         "answer": "All",
+         "option": "c"
+      }
+   ],
+   "solution": [
+      {
+         "answer": "All",
+         "option": "c",
+         "explanation": "Something goes here"
+      }
+   ],
+   "success": true
+}
+]
